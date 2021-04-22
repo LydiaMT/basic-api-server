@@ -6,14 +6,15 @@
 
 ### Links and Resources
 
-✨ [Deployed Heroku Site - route /food]()
+✨ [Deployed Heroku Site - route /food](https://lydia-basic-api-server.herokuapp.com/food)
 
-✨ [Deployed Heroku Site - route /clothes]()
+✨ [Deployed Heroku Site - route /clothes](https://lydia-basic-api-server.herokuapp.com/clothes)
 
-✨ [GitHub Actions]()
+✨ [GitHub Actions](https://github.com/LydiaMT/basic-api-server/actions)
 
-✨ [Pull Request]()
+✨ [Pull Request](https://github.com/LydiaMT/basic-api-server/pull/2)
 
+Visit [Swagger](https://inspector.swagger.io/builder) and input https://lydia-basic-api-server.herokuapp.com/clothes or https://lydia-basic-api-server.herokuapp.com/food to create, update, or delete food or clothing items. 
 
 ### Setup
 
@@ -24,7 +25,7 @@
 
 ### Test
 
-In the command line at the root directory, `run npm test` to make sure all test are passing as expected.
+- In the command line at the root directory, `run npm test` to make sure all test are passing as expected.
 
 ### Architecture
 
